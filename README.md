@@ -112,4 +112,4 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 
 
 ---
-⌨️ com ❤️ por [Wallace Leonl]😊
+⌨️ com ❤️ por _WallaceLeonel 😊_
