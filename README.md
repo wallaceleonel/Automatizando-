@@ -1,4 +1,4 @@
-## Automatizando 🤖 <img src="https://img-premium.flaticon.com/png/512/3098/premium/3098674.png?token=exp=1632971257~hmac=41351f4d07c73095a9755936d5be0136" align="right" width="250">
+## Automatizando 🤖 <img src="https://cdn-icons-png.flaticon.com/512/2845/2845757.png" align="right" width="250">
 
 _Projetos , ideias e todo tipo de função repetida  que resolvi desenvolver projetos para fazer por mim_  🐍
 
