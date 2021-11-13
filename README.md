@@ -14,9 +14,7 @@ _Projetos , ideias e todo tipo de função repetida  que resolvi desenvolver pro
 
 - Tinder Bot 
 
-
 - chat Bot
-Um parágrafo da descrição do projeto vai aqui
 
 ## 🚀 Começando
 
