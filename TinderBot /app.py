@@ -66,7 +66,6 @@ class TinderBot:
             except:
                 pass
 
-
 bot = TinderBot()
 bot.login()
 bot.logar_com_telefone()
