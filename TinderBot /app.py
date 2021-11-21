@@ -1,4 +1,4 @@
-from selenium import webdriver
+from selenium import  webdriver
 from time import sleep
 
 
@@ -25,7 +25,7 @@ class TinderBot:
     def esperar_input_manual(self):
         input()
 
-    def fechar_notificao_de_localizacao(self):
+    def fechar_notificao_de_localizacao(self) :
         permitir_localizacao = self.driver.find_element_by_xpath(
             '//*[@id="c366415127"]/div/div/div/div/div[3]/button[1]')
         sleep(3)
