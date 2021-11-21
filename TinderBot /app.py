@@ -5,7 +5,7 @@ from time import sleep
 class TinderBot:
     def __init__(self):
         self.driver = webdriver.Chrome(executable_path='chromedriver.exe')
-        self.driver.get('https://www.tinder.com')
+        self.driver.get('https://www.tinder.com') 
         sleep(3)
 
     def login(self):
@@ -53,7 +53,7 @@ class TinderBot:
                 pass
         finally:
             sleep(3)
-            botao_like.click()
+            botao_like.click() 
             try:
                 sleep(3)
                 if self.driver.find_element_by_xpath("//label[text()='Say something nice!']") is not None:
