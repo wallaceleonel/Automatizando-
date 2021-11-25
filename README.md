@@ -59,6 +59,7 @@ Explique que eles verificam esses testes e porquê.
 ```
 Dar exemplos
 ```
+https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html
 
 ### ⌨️ E testes de estilo de codificação
 
