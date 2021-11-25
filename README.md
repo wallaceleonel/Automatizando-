@@ -58,7 +58,8 @@ Explique que eles verificam esses testes e porquê.
 
 ```
 Dar exemplos
-```
+
+```https://docs.google.com/document/d/1Uq0TFScZOCpdae6MzW7eYRbVu4ovtGM6JwucjNpoc3A/edit
 https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html
 
 ### ⌨️ E testes de estilo de codificação
