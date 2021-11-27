@@ -8,21 +8,21 @@ gal.append(pes[:])
 print(gal)
 
 # Lista 1.1: List
-gal = [["Esaú Morais"], ["Esdras Morais"]]
+gal = [["Wallace Leonel"], ["Wallace Leonel"]]
 print(gal)
 
 # Lista 1.2: Individual
-gal = [["Esaú Morais", 14], ["Esdras Morais", 16]]
+gal = [["Wallace Leonel", 15], ["Wallace Leonel", 16]]
 print(gal[0][0])
 print(gal[0][0])
 
 # Lista 1.3: For
-gal = [["Esaú Morais", 14], ["Esdras Morais", 16]]
+gal = [["Wallace Leonel ", 14], ["Wallace Leonel", 16]]
 for pes in gal:
     print(pes)
 
 # Lista 1.4: Print
-gal = [["Esaú Morais", 14], ["Esdras Morais", 16]]
+gal = [["Wallace Leonel", 14], ["Wallace Leonel", 16]]
 for pes in gal:
     print(f"{pes[0]} tem {pes[1]} anos")
 
