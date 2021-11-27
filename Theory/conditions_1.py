@@ -13,13 +13,13 @@ print("--Fim!--")
 
 #Nome: Condição simples
 nome = str(input("Digite seu nome:"))
-if nome == "Esaú":
+if nome == "Wallace ":
     print("Que nome diferente!")
 print("Prazer em conhecê-lo, {}!".format(nome))
 
 #Nome: Condição composta
 nome = str(input("Digite seu nome:"))
-if nome == "Esaú":
+if nome == "Wallace ":
     print("Que nome diferente!")
 else:
     print("Que nome normal!")
