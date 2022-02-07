@@ -1,8 +1,10 @@
 from selenium import webdriver
+
 from selenium.webdriver.common.keys import Keys
 import time
 
 class InstagramBot:
+
 	def __init__(self, username, password):
 		self.username = username
 		self.password = password
@@ -12,7 +14,6 @@ class InstagramBot:
 
 	def closeBrowser(self):
 		self.driver.close()
-
 
 	def login(self):
 		# Instagram direct URL
@@ -33,7 +34,6 @@ class InstagramBot:
 		password_elem.send_keys(self.password)
 		password_elem.send_keys(Keys.RETURN)
 		time.sleep(2)
-
 
 	def like_photo(self, hashtag):
 		driver = self.driver
